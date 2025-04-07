@@ -1,0 +1,17 @@
+---
+title: "first-analysis"
+author: "hmutanqilong"
+date: "2025-04-06"
+output: workflowr::wflow_html
+editor_options:
+  chunk_output_type: console
+---
+
+## Introduction
+
+```{r}
+
+print('hello, world')
+
+```
+
